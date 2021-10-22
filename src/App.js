@@ -81,6 +81,7 @@ class App extends Component {
 	};
 
 	onSubmitAction() {
+		if(this.state.dataState.id !== 0) {
 		if (this.state.isEdit === false) {
 			axios
 				.post("http://localhost:3005/posts", this.state.dataState)
@@ -98,6 +99,9 @@ class App extends Component {
 					this.loadData();
 					this.clearData();
 				});
+		}
+		} else {
+			alert("Mohon isi data terlebih dulu")
 		}
 	}
 
