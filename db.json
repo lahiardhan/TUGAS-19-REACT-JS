@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": "3",
+      "nama": "Natasha Romanoff",
+      "jabatan": "Business Development",
+      "gender": "perempuan",
+      "birth": "1979-10-13"
+    },
+    {
+      "id": "3",
+      "nama": "Thor",
+      "jabatan": "Security",
+      "gender": "laki-laki",
+      "birth": "1347-06-09"
+    },
+    {
+      "id": 1634870148496,
+      "nama": "Tony Stark",
+      "jabatan": "CEO",
+      "gender": "laki-laki",
+      "birth": "1965-10-02"
+    },
+    {
+      "id": 1634870204843,
+      "nama": "Steve Rogers",
+      "jabatan": "COO",
+      "gender": "laki-laki",
+      "birth": "1910-06-30"
+    },
+    {
+      "id": 1634870366144,
+      "nama": "Bucky Barnes",
+      "jabatan": "Office Boy",
+      "gender": "laki-laki",
+      "birth": "1910-08-12"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
